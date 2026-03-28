@@ -1,0 +1,68 @@
+body {
+
+background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+font-family: Arial;
+color:white;
+text-align:center;
+
+}
+
+.container{
+
+margin-top:30px;
+
+}
+
+.camera-box{
+
+display:inline-block;
+padding:15px;
+background:#111;
+border-radius:20px;
+box-shadow:0 0 30px #00ff88;
+
+}
+
+video{
+
+width:600px;
+border-radius:15px;
+
+}
+
+button{
+
+margin-top:20px;
+padding:15px 30px;
+font-size:18px;
+border:none;
+border-radius:10px;
+background:#00ff88;
+color:black;
+cursor:pointer;
+
+}
+
+button:hover{
+
+background:#00cc66;
+
+}
+
+.result{
+
+margin-top:30px;
+background:#111;
+display:inline-block;
+padding:20px;
+border-radius:15px;
+width:500px;
+box-shadow:0 0 20px #00ff88;
+
+}
+
+h1{
+
+color:#00ff88;
+
+}
