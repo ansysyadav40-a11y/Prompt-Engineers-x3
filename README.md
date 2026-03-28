@@ -126,8 +126,7 @@ Example:
 ---
 
 ## 🎥 Demo Video
-
-(Upload demo video under 4 minutes here)
+https://drive.google.com/drive/folders/1DN7UW2xBXx78jTPuCgnRHKe1aUO_AXKi
 
 ---
 
