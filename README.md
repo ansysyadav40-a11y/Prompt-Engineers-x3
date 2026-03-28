@@ -150,7 +150,7 @@ Example:
 
 ---
 
-## 👨‍💻 Team CodeDiva
+## 👨‍💻 Team Prompt-Engineers-x3
 
 AI-powered Smart Waste Segregation System for Sustainable Future ♻️
 
@@ -158,4 +158,4 @@ AI-powered Smart Waste Segregation System for Sustainable Future ♻️
 
 ## 📎 Submission
 
-GitHub Repository: (Add your repo link here)
+GitHub Repository: https://github.com/ansysyadav40-a11y/Prompt-Engineers-x3
